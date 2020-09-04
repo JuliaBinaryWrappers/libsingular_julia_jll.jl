@@ -24,14 +24,18 @@ libsingular_julia_handle = C_NULL
 const libsingular_julia = "@rpath/libsingular_julia.dylib"
 
 
+# Inform that the wrapper is available for this platform
+wrapper_available = true
+
 """
 Open all libraries
 """
 function __init__()
-    global artifact_dir = abspath(artifact"libsingular_julia")
+    # This either calls `@artifact_str()`, or returns a constant string if we're overridden.
+    global artifact_dir = find_artifact_dir()
 
-    # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
+    # Initialize PATH and LIBPATH environment variable listings
     # From the list of our dependencies, generate a tuple of all the PATH and LIBPATH lists,
     # then append them to our own.
     foreach(p -> append!(PATH_list, p), (CompilerSupportLibraries_jll.PATH_list, libcxxwrap_julia_jll.PATH_list, Singular_jll.PATH_list,))
@@ -41,7 +45,7 @@ function __init__()
 
     # Manually `dlopen()` this right now so that future invocations
     # of `ccall` with its `SONAME` will find this path immediately.
-    global libsingular_julia_handle = dlopen(libsingular_julia_path)
+    global libsingular_julia_handle = dlopen(libsingular_julia_path, RTLD_LAZY | RTLD_DEEPBIND)
     push!(LIBPATH_list, dirname(libsingular_julia_path))
 
     # Filter out duplicate and empty entries in our PATH and LIBPATH entries
@@ -52,4 +56,3 @@ function __init__()
 
     
 end  # __init__()
-
