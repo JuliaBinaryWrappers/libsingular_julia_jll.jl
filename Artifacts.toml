@@ -1,88 +1,88 @@
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "a4b5260ac7a92dafe23ad27d323ff640fac60521"
+git-tree-sha1 = "214fa6946342b880602868add7ebbbb0ebb3a7d0"
 julia_version = "1.10.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "2e2f8ee6841d70ba9037c1690c2b3348fee64071e3818d0c1530e5cbee661514"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "dbca1f73314934e449c541702242ed681e3d730e5c4d87b096aa80a85fca90b7"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "78838ba4a8af7b4c2023b26b2e3e9a576725e5eb"
+git-tree-sha1 = "4fa3cdb9709b4204d36cd5252782857fb9703b51"
 julia_version = "1.11.1"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "313bf7b4229c5f4e39f7b73687b77ed85096c1270657a67356cc75e2fb75a442"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "296c27264a524eefa6302e470c0750e1a1614eae7e16e66d63de1d0add406cfa"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "972c1f2a95aa2e046cb771a63fed5ced76530fc6"
+git-tree-sha1 = "afbfc435b932a8c8eaf7dc598929b6c24dddd2ee"
 julia_version = "1.12.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "ef62b7b7db336150f7d1cb09745f9cb966c65e39a9b77aa1f8246ee9f4ceec5d"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "4488c1c3d3c6e35b33e61082fc13c42724d81f8bb5c2a24cfc8638cee48b04a4"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "0d5da419d5b3885cd6db952c584a67935eaa416c"
+git-tree-sha1 = "4f33a1e40fe7ddab7b8b2ff87f7cf436979d835a"
 julia_version = "1.13.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "d3faa3126a100ce05712c1e2b5db187f7fa14f4145d5624c9bbece1b4e15d4b4"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "2ed224c5e856501e6324db52887c0ee0122a031df70d8f26684180e1f9c4113b"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "2df79a87cb742e26063f780aee9ad7a1eaea9008"
+git-tree-sha1 = "463259d6731c2b07ac99f87985ea2c895304158f"
 julia_version = "1.7.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "5ba098ad8f2ccc7282c65a45a83e8381510f957d00d69293e60630cc33c4b9b5"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "046f987d052d688fa09d2504e0b192b52169632520ca52a7241f6f139917615e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "bd2624a525b4ff7aeaf7b2567f941c266fbc4477"
+git-tree-sha1 = "b0adad8fff2d16670e8a708c023d12c250e44cdb"
 julia_version = "1.8.2"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "9296963f2b1b1637ebe250fa2f11b0149610cabefb1f57d1f0b54bea31910c8d"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "fe9c2244fa8a766ce8924e74dd190b6b8178055a059be61b33b58bd2e833fd60"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
-git-tree-sha1 = "6e2c9939e87b16b0765f1880bde2f94aa22af3ec"
+git-tree-sha1 = "fd6c6e7c5fc81a2bd624e8b12b9edccaa49ee95a"
 julia_version = "1.9.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "ad3bb88a40bcb4f095bfbb7a4d4009f8cf073342f0a6b1d5404f104ad006ad67"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "918d4590fccc003d65c2939dd9895e336c9f8a0fe9132542cbda63d6768b19eb"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41af043ff793e484b6bb981f9debf6c0653e3137"
+git-tree-sha1 = "434881e7b0abd802a3d87085dc0802200734d908"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a34c1683907aaf2d05f33a8487fa304a4401741d974f43cf032b0c4c13d4b78f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "e8a40d5c55197c0486be176d585bd406e028cf407e1a2cf974eaa69dc3a4a411"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8b6c4f7e0abc6312d434b32e7ec965b583b5e9d1"
+git-tree-sha1 = "e9864b4d604f95026aed325ba6f2f859f541f8dd"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "cae1ace0d620ddaaafccbeb0421988cbd61b52c89b01db26a801e69fb5c6ee09"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "896c1d3eb6713aa6c8db109f29bba94a645fe9f5ed0be31d19ff4bc3cd940c08"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -93,84 +93,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "f3b90fa19350fb621e9cf06ad5fb9ca4a33c5ecc1f4e9b3f0252ea4ddbb633a0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06073afbcbdb63d0be9c4b4934be733668a7d9d5"
+git-tree-sha1 = "27e91a54578eb61bd1b05d045df0ad54f84bf2c0"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "860844e4a1df28d23e958cf7298fd4a513d0a269de9eb6331b57d660c665977b"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "0888773878790e68ab02a4d12b01fe124317a43207358a5ff2b2b64196e39bee"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9bad89b6770778ecc15da395abd8ea2fbd33fe4d"
+git-tree-sha1 = "5b7f84f5a3fa403c6f3bf512e10065253edffa4e"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a073e5a3f8074ce9a694b60c3a684655b9e5fb6c05fd48948f2a904114e142c9"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "6016eadde506af1e6c3b391d2ad49182095b3c279adbf8af8ad96764527ae407"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c829687be9833bf401cee19d8d54e6a578228490"
+git-tree-sha1 = "278b4e2ccc0c9e81a3a21bccaca76d554c0af2b3"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "3a88645aa3f41051de29f78002dfbc8c2aa68a66f5b568a7374e569e1ac41c52"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "3c30bb23a5c85cd0263d093918789ae763cf9d49557d5bc198acf121184c2a31"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9edaac4bcda4679f55c2c36a221fd68cee604fd6"
+git-tree-sha1 = "11f56117d009610231a538b36eb472fa824407fd"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a3f7f2919743230d74fda6fb90dbc31c39988f4b2c4320d9f328d5896ac51a13"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "fb8b24dbda8e032c16f6173f9cbe062b4fc8d308fdbb9eadb0b792d0307029ad"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b95768a152c8a698cbe1460c0f4054e34a92bd1c"
+git-tree-sha1 = "6f6afd8c37415751165141f33f20d374ecc55454"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "debccebb7969bf5475efadf5cb46613e3cfb49ebfb938991ef33521c9ffe60e1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "2b25d2f464174cac79249ad04f71df927fc9703839c892580fa173911f32c10a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9978a08a6d872063167d5601d316d0c877b0aa7f"
+git-tree-sha1 = "dd9ade9ebfc485f9c48b66564d3bbd76caf707ce"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "1eef38ebdec301433017f096e00a89d6bd3920e56d9d9751ed5aa55a85940682"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "61e2c4caa67e144011e156001ca52ea6454083f44d626e3d56950c85c2184980"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0f3b4a4caef21377b6658271fc857985bd85ff6"
+git-tree-sha1 = "1fe32d738df4b70ea758e5d4461be0cad604cffe"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "29770fa3ee296f71e039f736973d8f713c0a1956303aaf4c48de52f6cb153b13"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "a3a3fb848baba09a9de259db6640fcf8fe3b2e83f1e49d4245170124e8fbdc10"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -181,84 +181,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "7644e52e51d5d79ee4f21f1ba740bb4a6ab76a044699d3188bb08bc12cfd72b5"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb893f6efec4dbdc0a968e9d6cb001de400f3968"
+git-tree-sha1 = "2a4489e850c1745f8bb8d63598c516ec08eb3fb4"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "fbe701bfcd8c725968b36d98a88247b6acb86b120e3ba3b1cef6451dfa4212d0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "90b020011cb4e2f9862d444da150b6b19732415aa1dda9c318138acfabcf22c9"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47c908363455f180d3e2c3662fc2dacce85a4598"
+git-tree-sha1 = "dc6afee4a63e84ed93726a4aed9dcbc1cf0b76c2"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a4bf854ec56494cbcae9c38ed1e4e5ab3e0dd66856071646c735a1777b03f5da"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "e7e0e81031bf9858beeca2df664e8b9ca886f55af560e1d26454e91c3527115f"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0338da822ed932cbb16995b5965386514859dc3f"
+git-tree-sha1 = "2f1bfd8fade361521152797ce12a3ab8b4f11d55"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "2dc29e3f7b7e10d465ffe268ec8a98647ed9e170f08d83b3ad9627919506c521"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b71e7d00a337c550ec72fc42a0b312eb3505353f0eca8d94e5c75627578df973"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3d98ba6143b70b11958e0bbc27882f3f65a87a7"
+git-tree-sha1 = "6e88015c2c61c51658a6c80917c89237a8e945fa"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "947d429ef090b757617c57e8bfe400c3634fd0cf9a765a1c55799c0f1cfd8dab"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "59c5a1195b0f23eb205d632d857a8aeb89e062a07e9aba69aaebfb41614e80ff"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de0316471bc5908d6b7bef039b64ce0536a64110"
+git-tree-sha1 = "2f821cd443df3e3bbb2e9955f5e8ea418a796115"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "69770b4cdd093aad055c78683c0c504cd7c30b164c40ae1bb5c8ad056ebeacc0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "83fa0b995700984c2413533b9988d5f4fb58c17cf2087f99d72270a0e9aa341a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "efa8c87b1d163ca5ee4d55010cdfa373b1c4e04b"
+git-tree-sha1 = "66ad533e233c51dfc1e84f62871ea01be62f023c"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "3de0108cc48c3a9f4162fc8205fb4f11170ce2a0809475e1ca5cc6c64ce2cf79"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "1d34c2c0aafbe4979a31a282b07de384b072e87560fe58f87efa8c66bb440a15"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b08cebdf1a6efb01195dabcbe6a1140c236262be"
+git-tree-sha1 = "cfa12f8b5a90dc19fac7d22306fdf8492494931e"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "5e983b5c9b38eac5ae7ff13f9ce94fdd848ffee219c866a8295ae1417e55e103"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "b468ddb0819d333b27ef466c2ba8357ec9ef18e24cb48aae9713acc17556144a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -269,84 +269,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "2b7f3f7a316ad55f2ba9eee1215f5de5695b3fa702e69f991617310cc683990d"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "818e9be9ea74ab0e316ed8a45ea5efbc66ecc497"
+git-tree-sha1 = "c5a3f0ae74efc159e98a8a64f61a8dfdd626646c"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "0c107a9430f4422f131d65f727f2db02198d8120b03e5156853af7eb9378bd23"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "2030d32a4c78c1b18324fabb34b2df28b5d76e42ddaac1136f714ce9cfe09a0a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d11c8a2e98a5e16288007f94ab44b8419930bfbf"
+git-tree-sha1 = "eedff7f09d6cdc68f2387e5c402ddd1a9adf9fb0"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "884626ceaf382a1978209b4fd124f09a678569da59ea68f80313a827e1bf4dfa"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "59fa8d8687a6d2c4492abefe861496a8246e58351cf857528050dd822c84e33b"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e233be3f1468305170b53a5c7025bbd326152d2a"
+git-tree-sha1 = "77fd6b40b6d5b5eaa1defb5e61f6c096f33e6453"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c64ebe9dc9d0b0b00a05b3ba8b951d8a00d75ef7a39073eac7edba8187452348"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "7724e6f26aa50764d53e18fbcc5bdb9b7b6199c8df13d9fd904a43e918f41a70"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "23810b7568db13703c9fc64ac34cf3ec094c39fa"
+git-tree-sha1 = "4da32a9fd3fa9e48628a3a9a6e5cb6c86667cd3c"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "fbeffd0a5a2bfd872ae65dbad2959ed7ac680f3cd1f91ac66ea5e692499d3624"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f8a7b8ef94f94109ba7e82a34b3cdb9407d73798e3b1c9ebe368f464b7f4ecee"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81cebb2538781f72271bc7e02bed515ca5a322f1"
+git-tree-sha1 = "5f0079b9b38008031569d82ff7ba0fb57f84f2d0"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "2856119d50e006dabebacf2ce3602ca80f18b3a30c0ecf4af402dbaab1461eb1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "9569b456ca2fc7f1d45a4285b9ebeacb8f9cdc443b127a9ecb4b81573c722788"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ea14739e4814b1d16e1f027153202d63a9d4e4d"
+git-tree-sha1 = "f8d647fa0f0f307aa111e61cca6c17272899f7cc"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "38d953be15abc2c8610b83e23ea386e752ab3ce01dff3453e13e44df7b1efa36"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "8b1259ca181c573fdb0ecc7530a40fb62d194160879ab40f37925fb5fd45d3b8"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38ef93529de80c6258a1ea8487a8d01486ad3454"
+git-tree-sha1 = "66fdb0c30fd948b77d562122e18de78a29f86754"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "fbf5b09cd0019993573b83573f06d7bc8540272e1e36d6cee87607ae6726fa80"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "1c90280b947f74678b1fa2f3cf092f4fa2bb3eed287778cf88b0dd9e7bf11169"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -357,324 +357,324 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "d39ff430cd3670121a8b1cf5bab56107388dadcd852b719ceeec584349a16a47"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf771407d761b3bda1b216e2169443090c47be5d"
+git-tree-sha1 = "2b99ab473ed3a9761251b9914d82a418a78ff626"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ed81fcda510cf9b10b803ad366a46949ce7f0eba0e665095b5332f38fe908b31"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "00f26e6d789fc75dd7639002ccc50bb5a52d4bf3cc281d4dbe8894d23ab58bde"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6997cea887dc613519806c35b4e86a230ab8b69d"
+git-tree-sha1 = "352a5f7d54747108de7f82294e42f17123e4dfb4"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "74925cf0e70d9376eae62ef633c25d716ae420e9515f17b227422ae3eabda3ae"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "84931013f43b059611491938ce673bbeeb29060d656838e15588bb4005e3f842"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c1a0ca0582fe637060cbf3df769861019073b00"
+git-tree-sha1 = "5159fd20ca00eb5cc46baa6d09965fce83d87e6c"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "73e0ebbb85a70a98e30b32d95be7340b4186bc3c2d8801b6693ee16bf51443dd"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "eeb130cc0a3b6845d9eaa9cdd4b46ab0f11a4988edaca73dbf2a3c990fda43f6"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a0fed8af25a1b9c2fceaeba6776a59c65a552024"
+git-tree-sha1 = "fed6048cb3ca3b74b9dd1a4234658c6718e9e2d9"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f9beca25b91a7f3f05506578bd97d4710b8d43722a22d058d33c0714e7c19615"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "2f5387bb317b5bd3ca2bb866d89c825bdf08ff7f803798b0a3067b8febc2a8b0"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f1d17542377b7165e3ea34c4716e33866d0183d1"
+git-tree-sha1 = "16d203c9d2ca0f119f258e11a4ad92cc1bc6fc5c"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ba6805d0adae2357315d559c277f40caf5475def3721316d666eae35d0affc69"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "f66f403a5d9313a0f66a138236dde3f7b8fbd4fd508f5cf85e840fbd4c46fe5e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf23dbb2b483d4dcaa4afe819b2e49c2a6127239"
+git-tree-sha1 = "c0c569ee2aed8b7cccc61afa538929628db09de9"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "75c89ba8c882376046f425a6823d1b90971bba8f2b4f4209d1b1b9f1404f0689"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d422d7469bb74a992f70e961db5f82ee0120b286b63a35e7c5175fa8f45ccdf2"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1a751579ea5a2b5ed68a39b9a140a65a24d728c4"
+git-tree-sha1 = "02e49010c377647e647fbe982e82474b36b35b31"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "e683eaa053ae73d2ed474c6e5257d06692f387e63cc97c8740edc72739ccaf38"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "2cbbd1e34c83911d85d66eb0837b46eca1dc31620cafb5720dbb422fba02b8ca"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7072e2b7df6230dd632ea37e8f9ba41044c68cf"
+git-tree-sha1 = "45c562615b922d3f5e6b5f41ae7742287930344c"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "929070fbeb64beadf97949222cb4888f8e2b3dedd868b5e315e219b940c3961d"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "34e6dd13dc801bb02e237030e3d5b707095b64976806fb3b560c9e0cb24d6ad5"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b894e0937d1c3e97a903b9831740a940b9ed2a34"
+git-tree-sha1 = "74d747ce42da973e1806eb4570a75318995a4c54"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "89b0f2c9156657fcf264f3ccff616b6b2fa42307cf7e2486238c0c2940060599"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "c5bf57340b3630d243a28f6285659a3b838127c8f58e1ebb1ea35b0d805890e1"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2c1606ca69e42baa70c94eac8faa14ebabe6787e"
+git-tree-sha1 = "6df1f9e33348ce194f80c70dd9e724dde61497f8"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c005f8173dc5fcb8497062810fe275ca1fe7e76678c120231c5cc0d950d594bb"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "90da317d100d5fed7a2ccc12105fcc15ebb1f370bfd62ae4a29a374f0eb0d5a4"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c185fb983d44acd6dedab926a14dd57fd527726"
+git-tree-sha1 = "aef974f709a4f38bbadb2dfcc8d8cf6c376d72dc"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "5b106ff39adc0e1dcffaa8dbaeb8286eb54509ba52ca9eff64d9954885531d9f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "b74b6e93f6d8093acf3db2592fc14ac162ef68c8412f3ddedd90786904cdda07"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f845e2ce79f83352b69563874ab9a76e8edc389c"
+git-tree-sha1 = "5ececaa6d1b973dd2703b3d54540c2da92efefe2"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c1687d523f2405928f455a420f6a40a9d8b78478628f61f2e26ff1c7b1ce238c"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "4be329cc48d4a2da358dd29a4419e60624d09b2c3aad1a20665d0dc75edcfa34"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8120ceeb370321e7d8ced7d4ea2ced41ced2b2a0"
+git-tree-sha1 = "83979ede48ff4385cf962ae31a8b4b0c3fdc736c"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "e9796cced06fad224fd599024d9e691cc3cf2609711885e1199407766ecd2ac1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "0c5eb4127aad66264affa9b114860d321d7bda5fe33f545f70a6dba1713e96ce"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "08b3df22073d4b3f577b5c406ff114d5a5eec4c7"
+git-tree-sha1 = "e8fb8c1b01246252ca4cf5696383945df7de2a79"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f9f1ec983f3c917cb6b636b11280b545289af7bbc371125a943dcf24e83f4667"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "ad52270636cd317fdd75a07886c80dfbccec417e00f6ce9b508c68cc41e451aa"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9777210325bd43d4b5cb27cba3a8028448256e36"
+git-tree-sha1 = "972d93c31f7f54afdf47a273be6e04e195933072"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "5e325ab3dd93b3f4e7d65ac0abf1be7ce0776e8f2a05603a3d41b62a52abaa97"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "7b89fedf1b5d569a4e5071108846e6ed15900c80d5bbf14f5cd0bda0e09bd998"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "babff9813b37156f144b727458b7ba4ae631b4ea"
+git-tree-sha1 = "36cdd6f3362c6f92a3015074cac13ff9e4ba89a0"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "9c3ed096d549eb640c248c1e73dcce2683193837a8fcb7233c38399c1b403f3f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "3b6033252590f593a8be826430229e921c8ec31ed17e30d97a7ea80f85fce104"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aedcada26c569a7c3f84315b4a316e8b18ef87f4"
+git-tree-sha1 = "cefbdf4bcc3293aaceabdbf8d048036d2d47f565"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f0a00daa077a06c79577ba5a8e8e63474f59393904f305b4e11b43fb6c20b4f0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "fd50409ba0d740b4d3799a6156806594753539ccd81c37a4795953a91bf4b330"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb31639f829ec7ac34eb30ee507cbb538ab015d2"
+git-tree-sha1 = "c02fe5d0daa4b0a8fcafd349d0c6c797226be2b9"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "9ea2f0288d9a0ef53da1ddc3084657ecd2cb658a035b82215606c9697f08c103"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "060681cda2e3be5c61b610ab6a0fc8557ab43a28a8a72ec76c7a050d6e271c4f"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7852ab323864c769274db0ae94a32b9e7cb8d3ef"
+git-tree-sha1 = "1087f7a3b3aaa5650a10e7b2c5a456209dbb0dfb"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "b5ab85c3c65da5cd532c2a6782208b23e3f67768d0982bc47410210cdf624ef7"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "48f4f4fcf2060334b417dc49550670aeae7d5391b0381fcaa28c7f0337ee7d90"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb14fc6e9d4f09a6f5699a9a2a2b9fe3a6087026"
+git-tree-sha1 = "5d9092dd56e3f648ceee7e980287c7f806beb12d"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "9cd10d3153f543b03dd3de41676eb371fe9b62fbc7514d602fa521e9231cd1d9"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "6c4b11e11a4c63e780075aea954242f47fb35ba2a8c4e4b75cf21dcd1fcaa8b2"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1d6afdff3a9af3f793c3efa9ddbe6df63dcb2be"
+git-tree-sha1 = "96e4ad1b6119a69dbaf27dc49e0e1c7f48fd3dfe"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c72bcd6773579587d23c58805c275134b2acac100f51cc312f1d0d7cb0594fdf"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "084590e0c1e9fa2a6179f338db794015551485d53638cc249051cd694d9db825"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f254cb568a6a2bb3da0bd3001a50f1be253d105"
+git-tree-sha1 = "9a65e23b67faf9c90acbc0cd05f0727472faca61"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "786b241ab0f86a084f105642529e4a287f380a3e5a45077351f2c52151c337c0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "19c3d2c138e6e410fb32c7011f0fb07abb7013601298676577be9801460a6f27"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22f740a4062918062f6feb14df811a04335a81e0"
+git-tree-sha1 = "c346a7c3aafa09533666d6b39f3851890c8885eb"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "6fe3707316d8c60c9671ba5d7a73815af8251de341d7bc2e7beeeaa53354cfb1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "eb254c87e468080d9b509ebecc9ee0c80a32b0fe99b49b052cf0e34ef4b809bf"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aac184b4cf6aa6be9a5627764aceee69292408ff"
+git-tree-sha1 = "52ccf293cbc7dc680115981d021c97e74dd4c7e9"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "28a3e6a710c69aa0135db5d88fcb592ca3783da492b64108adf9edb634dc298b"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b59eafaeabf360808f304af33eb4a79d2ee2671094141074d1da954f89db7a8e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0df280adb61003fbaa6c4162cfb47cfd5ea1287a"
+git-tree-sha1 = "d1d4cdd9c876a0d3b3aae1b7ce918b8f3357c417"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4df82531d9ffc75f5350f386197a8d284fab677b54425303f7310a97bd244f91"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "b57baea0f74a1f662a6fd2256830625375e8cfa8246c4cb63194a732736c6a5f"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06439e6c0269d893c705ababf0ae7ca70f23d323"
+git-tree-sha1 = "51de698d86c8344a00968156ef1bbab6075dd768"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f8f474bacd7f40ef30262c5b1dc4b9941e74e565b5ff3dcdf467dca534d9e023"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "267f216f9f3597ed3a26e0543423aff48c77b44c12fd3a9fac83ec25ed513945"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e36ae9b520f1b48d8fc91eef4fa97e301b3db8b3"
+git-tree-sha1 = "9a533b1dee9c46a4c14f7538c5290eed1906d50d"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "0296bed36f96353097710d46714d7d65853ca815f2d2d80165c2b16335d15b95"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "dbf42a39a7aa75e6725e862d2bdae3ddb3ce521baf1ad265a42db548f6f63756"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -685,84 +685,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "fd935acb9cdefb7e7389f9d7f7233f3425fb1e113e5ef90e543a715e2b700fa8"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e2bae69b1c6414753b7667fd7d456fe7a053bd54"
+git-tree-sha1 = "2ad6bd5ae343032190becd0fb6cf79e1ee2c2ebf"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ae50b344d3daf224872b05111109e91c69f304effb1f9771c42b260f0ed3d86b"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "5cff860c7f285df527b7bdb3f8d476099603895d3886f3291423dc8023a175fe"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7f214230edb6ca0f6b0a4156f2e06e07a365e36"
+git-tree-sha1 = "16bb56747d09af42091dd9e7792e420b597a2f2a"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "1407af03b4bc455c424d7d03d72d9679dc86d4630d897325fc5e30c813f98296"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "9cb1b3a7ef0349fd82df610b94ec31c1384178c1cccf3593d5a4f6e6e2cab6f9"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "262675255979b61a7ce7c183550502e61c4bca16"
+git-tree-sha1 = "37dc839bac62aedf85f9f6327135ffef36883a5f"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f9fad1eb415ee88e1f8f665f0b8494a888f1352bf0307f11e04c34ceb0eabde2"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "54ab367f49047d975fd6de35499222e6a157e50894a5a9e5c9b7daf64ca2a56c"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b1a22b2b44462ffc96bde270e728f92cfb14041"
+git-tree-sha1 = "b8e6b91d698dbf8c3489573a4cefcfcbf65cb21f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ced93265fc0fc2311667d92a7d81e202ef26fd00e53008fef7f4a447e34009b2"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "43db233e338e877a57092c6eaeaef8fbeacde1f0e3b5edc18e6713998f6574ff"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "378fb46428f9fa7a06a539c991555a0d6b3312df"
+git-tree-sha1 = "59a1248f368c2cf157243fa53f5ca709d2c33c69"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "72d0aa0fc4644c9cfb7786f12f46dd0963c18383f71f58a4274c26d20a1da384"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "665b563ebfd5f106c02ba480dfde959bca8e76d1dd8d4541191e6d81c593eca1"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12e86aa9f31b1fc67233b2cb5539bf5c016f1feb"
+git-tree-sha1 = "95c8358033c01164b824c08fcffa3d665a60d466"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "8e00580b3608d27c156432a495e6ae64bc028932af3a5510d15c9f488ebf9c13"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "39f99bb9ceaea1c4e28a544865501eb1599aa6b7cc9ae5a8fe8ff2a5ffbb8197"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "20447c6815368dc525fbd5c9e5660c6aeabab7b3"
+git-tree-sha1 = "539fbb536f3a0f98be477c75db19492a2ece714b"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "2742c87c94ed6486e343daa1cfcb0bb3b80a157787953019e6a957955b9ea31c"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "ed62313419287a97c842df7b688457d10c522697a7b7d6127c6705032adf7d9a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -773,84 +773,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "e6e2836ab28dc3b8360a4d4c4c1c30513cb5dd8fc96b6ffc70d1f4ed2d3cfbec"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "727d6933f1deec5970a5fcac5cf416792d6bbb61"
+git-tree-sha1 = "d9b6fe60db67266633dfd0acf93cd6dbcaf3d208"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c23c3be3253ea68674f71a80dc36ef4fdf58f0af7169bc6f0c95b892e1f2a079"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "1277d66174ac4eae020d551e05a604cefa9043bed3b6ff44129d0a2f67dcb155"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba21641212e6bb287b6216c4f02e400961d5dc9b"
+git-tree-sha1 = "ff1d57a993db68adce1ef54fc467070e48cedcb5"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4983b0e77d47d07a1a5149210c1d2704efb4f0929b84118f5904e31de061e3ab"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "4055438374abf7a896156674933acca4f665deb0eb9173e7cc924581c9fcf980"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "840bc4de10b11e584b01fb648287cc24f16074fe"
+git-tree-sha1 = "0e53b8cc997783b217d19b52fedfa583ab1d8de3"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "fbd590e5d9b8ce1c168f52d945a2b0a024ba369b7767d3b15af5c2c7884c9db3"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "a98d6db970bde6e5b3ba50219d0b085e7ae01aea3d79e3b88af7d8941add3475"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "105c07970f93cad44497779ec24d204ee384c0d5"
+git-tree-sha1 = "eaa577cbb393b613b27d478a5fe49ced5a508b72"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "cfa8e1257f0dd4b1ab415e0cebe9f9ed641a5376c959e24fc28aff778a87894a"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "63f1238737febf4f77b630c82350d8d2d818a2831d9341ea5b6a23b6011af3f2"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37b5e78dbbef711387ae5b4faecf1927a76c9f59"
+git-tree-sha1 = "9a8afaa44bd5b8af9f1f8ed94d5a4da74ad7c67c"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "bb0bf3fba2f0f9152ada1c57d4a883d0de1ae796ff3f19539a8f9fcb98e89917"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "89a233dc2c143c35af82625662d5e3f90fabe1384f27c20a0c4c676a43055131"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5ea148829f68e4c69ed39c9891b0e912840ec990"
+git-tree-sha1 = "b74ac5d89d9101fd3704dd7c40ceeedf030c3cdf"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4034e76c809924c9df62ac10517dd875e8a03660faa7193c28a4c98af56c4ff0"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "6024ed5d67d459231d3351ddfd7198e3c729f72b530feede247d0611032391c8"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db4e4565724dbcaea9135e3c8dc5e4dc5895b851"
+git-tree-sha1 = "a605156093c015e82505dd6afaa598b6837607ea"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "6356fe95ebf34d73bae164baa88d1da92d797f2969efa9a164c59147dc37b3ac"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "96c2faa100de8efda02677838debe3ed9e045a5a9e78cadc0e8c51f3790c6adf"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -861,84 +861,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "9baccde34963eebb6f5f971b806eb4b08980628594ae32af5a4a11a6262d8d56"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd4215f3b8b8eac6889620ed272a73997ca6ad69"
+git-tree-sha1 = "431248455076c703e8b3d47efb0e0fee9884faa2"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "136ef082dc272788f87dba660e85f3132d6a1829ca67bb9d55487085860a2413"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "41d8813eb4c299a5442cf211dfbdf3a13f12b546c68044527560ca843074bcab"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f644fd4388b4acaf79a33d292f7816c73a092a2"
+git-tree-sha1 = "a8a5ada3247c425d1abc5cfdd28cd95f6c9af2aa"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "48d08cc7ff8e25e896e8be7dcff9271add73856ef0bda34cbd23d6d1127487f1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "db004c0ad3039e24eabc43864abbcd3226d5f2447769d7113f674c631aa261e5"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2085840d8ca0af8006c95718392a8b3d09211b9"
+git-tree-sha1 = "ba988f6528ae1919a9f018e869da7e879083b4c6"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "6c97945a223ec855800cfab6c4abe02fde1fe9c5680b2476292f64b523ccbab6"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "ea26e2414d879a364c5f8ea57c4982b2c7babb868122b1c3c067cd6120f7dfa1"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0dab289ac799fc73e6b1f3452a402e15580c5acd"
+git-tree-sha1 = "0669e03129f8ee3279b2ff8f48d109564c5aeb1e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "27421a02475f0dae88b8370e6c9d7feda16e256cbc46d3d583ea089df84a4a49"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "fed3bc806335f3ea4a9f208182f5ca8c36012aa52bf47e61598194d5a20f355f"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83469fe1bf48548d0fa804ce049dce7f55241506"
+git-tree-sha1 = "c44db670a557a8b4d79fe94c28caf614f486262f"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "6261e9dd869ec0d5960f74723610dba59432a3bf4d4245ca695ca6da9c934c0f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "96e6a97506cfde0a8ae698cbbd0d60e77aa6dceb2cff8365696b23b5d896f704"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bd5b71d60a176225fa59aeeb234e352bbef454d7"
+git-tree-sha1 = "d2b4216f84fb83e61c9c29d6326b63c8a4c9f749"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "496d3d480ce94655b0acd1b3cd0c179785ca6a9d221ec052555898028235119f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "56740a9b4f396caf4e04a322a2e58686e5f3c075a998eb766d2517bf6ad07af8"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9215783ffba051315c439ce16a98c5af1fba1968"
+git-tree-sha1 = "f170658613e6fdee0765eb99ce1cfb3f38e4b3c6"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4746c86a3241b9d554f01e58f419fe28f87a987854f67f0d9b4459156de89405"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "626c7969a4d18e78dd088a3a53d732c938801617ffe75c6bd77fc7b0bfbd5599"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -949,156 +949,156 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "8b93040cc3f3b968b2085487cf5de6b2eb2b6a0d084302359e03887920bbb65c"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31f8ec412a45216ee889648ed563645dee6c83a7"
+git-tree-sha1 = "8cca5f52652cf488c03645a8fb52fb5341430c59"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "194d53c78e016cff463249a313c24538439991408afc9548c2eb54c8b7fa530a"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "85dba2a4955b3c39b5f3845b97ac135b7f849b523c4f635ce0f725d5fdbede00"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "214add361a4044d6ed32a9fdcc0003fc44197130"
+git-tree-sha1 = "e27799298dc3bcc9f541f4e68fd008cc700f7f84"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4d708bdbef7af9f4834d44f98acc209fb96ea4413724c0e755f472b80be283d6"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "a16ce308119a3e133582b01358f4cad8ef339e7673b823da1db5cf48405a727e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e0f27d707fe2f32f6f9713bb9ebc751f451094d"
+git-tree-sha1 = "72df7a6a60d5ab0156356865485d1389f54b0143"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "bc12dca0606bde1f10336b27eb2dd2f1434f9dff16b3240e65576b6fe4e746a7"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "fd1eb53768f15a2ca990442a7429176c62710d36b81495f6c21e97bd1dd22776"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cd1e37db3e7efe3aa34d82b5de56208789cf2790"
+git-tree-sha1 = "839e5446953151b2a8baf037954ec8bd33a7805e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "aff65c97a660d8dbc1c440d88fcc9d86167b3b7c3867e37c71ccf48a6d3dc890"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "cedf9009d692763d489a178c496a3616951afe3fe346bc410024515151ba7126"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f8cbd545584a8510d702828cea51f62dcf54520"
+git-tree-sha1 = "7ea66bdac53fd0cc04d56827cf3bd50e8c27ca65"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "aeb782cefff241fe5cb1739733fde3fbd9c582af013dfa8f93244e1d313d3ca4"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "7567322d5cb23bd0f72aae3e3db07ff71c88f23286f65a4f63033eca240e143a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "3661a5a7581c091ed2bff2257485ae1cbb514a3f"
+git-tree-sha1 = "c8c2a6d3f4c2d6411f9494be0f301d6b93497ad7"
 julia_version = "1.10.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "9e65bcf07c19c40e18395d5a3d24ba1c3edcc4999d0332d90437fb1840c8095d"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "cca22eebd4c02d180f5b475adbb650cea30bc8925ae94aee1c328fc1ce1be71c"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "cf95b61f89e0fbe99c87097483070f543529816e"
+git-tree-sha1 = "69802c1ae4f1f7ca600c718e0ec80ce69d3d6a44"
 julia_version = "1.11.1"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "7da87d4922166affa1c277769774db26d88873d6ebe94d4d1c7ecfc58d27c96a"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "ee742c74456e01bcf0da17e12b5163d9ee81173dd1639a633683e8277b24ef0a"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "12ff46a31075fd8b1da783e3ad61f755f6ca1bb2"
+git-tree-sha1 = "74ccd0aa7c4e1b7777109e3e407bdcf930290c9b"
 julia_version = "1.12.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "e1fc4c0bc93679ca83aa4dd0b1007332141cd7e2c411675bfd01567d32b4cc35"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "e6ee1626aaeff2f64cc92a8ffc2c70098bc746f80b1fc33a143f0efe7dfeb9d8"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "f350370d7de59e12a4469f803c93ba69bc28e5a1"
+git-tree-sha1 = "9d765000e8c37a63638bb7ad0689ddbab9230def"
 julia_version = "1.13.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "97491cb3bebf95acad82ce906104f83aac311ef3a347f6cfe3d1cd15f9d950ce"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "e1cb7ea5de9a13f7db94e7eb22051763a96a648232644cc76b1394f7fa33af2c"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "8e69ea4c1d446133d550bdc2e5265c4ef5286535"
+git-tree-sha1 = "55018ba0727e683e4e4e06a8369dab7e6b180262"
 julia_version = "1.6.3"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "c3004efceb32bcb0cff993418806c883f8591ee07759744bbd9d2d288fe36842"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "5f40221e3292e107c822a6139056ea30f146ae9f1e27fecdf828d894d5989890"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "437e5d267459f8608c975320b0e19dc46cdb462a"
+git-tree-sha1 = "c1cf03903ac37c7b9d8c2cf726cbb2b4249f867e"
 julia_version = "1.7.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "21737ef2ae4dd45c61e3f460538113b3a29612ef61bac01783bc23a5e3a0b7bd"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "3b296f320c7047d1043fc3614f7d10406637f34add5bb1d545a11a58f7267eab"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "eb9fdf3e6ffde8ea6310c81048fdd97f25944a2d"
+git-tree-sha1 = "3fb4a67534481d4b83b320304e4dc449a8035a65"
 julia_version = "1.8.2"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "2f9321ee446f57badb76f4f4526b54d6033fa1041f453eeeb242730a6333fb4f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "3cd3b3c79b009328174e1751d3082d6a1c1f3ab25be8c671dd1b9326ad00a729"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "3da3ac7de010184ab18c70b3faaf0c6753703205"
+git-tree-sha1 = "0e0b965f63acadfad7aa8fdaa99c1f27e4064831"
 julia_version = "1.9.0"
 os = "macos"
 
     [[libsingular_julia.download]]
-    sha256 = "7e3b0d41af760e307ef1c0029d9c1a10de03507c1ba0a44f02cc093592b40320"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "2c6ba77b8d161635a5b652c7e77cfdce4ce8afbd3d8033b5e230a8b11653ca11"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "706eda67e23380e20c3461d27646d4d9c9d2aca1"
+git-tree-sha1 = "be01981868a78cd3bb41a0627aac76f91235618e"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c501b84cdcab28da502983ea199fc9438f6d992fa7a71c353285f5abe72ffc87"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "a94d3ee437d8d27418f71da90ffe16f79fc6e1d08ab90381e8c25e2bc243b597"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "395a442a67f0360937f958bfd2323f93df6787a7"
+git-tree-sha1 = "07004a275a8bd4ab126c478d68b79017b6577cd2"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ddf0824eac8aa32999b50a74c5af7c502fd3b44c8ee1f8b279a045a7d677f3ce"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "483f0ee796489d21e380dcc60a11608c85ce2a56a1580d136e4ec1be7ddcefdb"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1109,84 +1109,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "e773cfecb6e5dbd313141481b5083c417ca39e0de5eaa8cf175c86e89c6fe419"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "497d7ee6d68b297063a3bba8d3807604f800dc5d"
+git-tree-sha1 = "18d00107b2e2b7bc350f7efc8d0ade12dcaeb819"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "0483f70ca068279869c164cbff5557a40c57b1f4d86533f0add86abe7cd34c16"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "9d105ce85b7a74c03477810820ee63968a1d066fae82bb19fe667c04a9c4f1dc"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e284d164f510151afab5635496181adf37dd1606"
+git-tree-sha1 = "d9aa8b2f985db18771111827f8f6653bf321abce"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "73ef74047973d76776b1d7095ed35d8aab2154ccfdae488f6b85ac3c809b8b81"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "810ee322107bde37132af88553eab6af88139407e5fe42c89a48a336198887b5"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d61dd82e69d3898eddfd462db6b755444bb90550"
+git-tree-sha1 = "cbcf15edb2952d211d834d7275fa095158e3caa8"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "76764b9b8e81f12ca5d63d2f61cdb5723a03949c6f99139f90656480f6bd0785"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "6d22be0c451c2a5eb27770ae23f9ce6e48be7a3bfaf3df5125ce7c4916de0903"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db5ccbc5e06c02d81d6f5a9784cb804189ac32f1"
+git-tree-sha1 = "3b270804ef80bea1a57884ddc6e6dd437078743e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f8e29261b19948d4504057c6114ae58f34e653df464fc53b43954eaab53f12c6"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "a846f74bd6c54058320dffb41fe9e45d78d37dd7f2954c7a21efed7af4242181"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df86003386e039399e20dc2ad41d74280cb44c2f"
+git-tree-sha1 = "0165dc1beb8e01f68d5ecac4594c0e16d9b912f0"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f87982cb64554525bb316d0029db079688ae08e9084a88b87ca5caf11b903009"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "3ddd03655caf1efe8334e40513440fff057eba14eabbfe2787089d80a62ca0b3"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2af3954532f1b48f0f55af11f99a7f7cc512d3ca"
+git-tree-sha1 = "c9d9e4b24d384167e7880f69ea49c8d82ff36f45"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "ae713db778fc67c244571a194cc7f85a41a4e2ca36d19fa98f38f213e830cc7f"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "fea1aaa1a348784a80b6d61126072dec1545bcadb41f327fefb470795e373d06"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01542cf5b5571e18fa7dcd14c19627764d9eceff"
+git-tree-sha1 = "6c105c4420275b94ea76ab02b80ff20ce7e488de"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a4003bc91177980c05649d47f7cdf2f93e80a5b55c908f1637c0bbf87093c81c"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "082d2c4bed27926712ac1d7ad8313778c377778a34ed4fb575e994ad70739394"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1197,84 +1197,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "d4e7d7f457d9d4d0e8ae7b8226ad7848e6fc991c23e0379855714a717ab2fc66"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3766b822bbadbdec11e8d0242adfe9afeaa970fe"
+git-tree-sha1 = "acf210e64f81587e44b4461b7e291619f460529d"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "4d6edc1393a5bd91fe2d0ffe84ea47fa0e876501fbdcd05328c75d82861ed87a"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "0ab00b2807309cd0c96fffbff6c48df44ca8a5a12726457a4fc8ef96336e0168"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a17e0747771a2b381f82d3f78c33f2505e6d3c1"
+git-tree-sha1 = "51eff0967893509f646f75d01be3e29f7b816281"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f7541b74ac67389b06340989482de5d847957acf7ce39abc956e8b1812644c1e"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "b7cdbf9ad967759485cf58abfb8e6519e6e3661ff3cf07ee9917b7ea15236ab6"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e1cce68107cb90ec7af1c8e58ded120a3db0c75"
+git-tree-sha1 = "fdb3594f4e12d59395cc3eeafa1d2c7923cf0be1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "49139b85095c89696134e6bbe8065888761a145a5a0227c77a6e1aad932fbd29"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "ee7ead22e8982b6be482265cdc986d9ee5b6c58c4618d0fb9b6181d9d0513739"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bb312f182733884b647bc36f6b4ca9cfb5a1a32"
+git-tree-sha1 = "b9c5a453103fde6835fd1d43aa14438ae9cddf63"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f80c3de061fadbfa7288e55ceed2d639de82736db3883cb04c6a9c0bfae7ba13"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "447e8bd12440fffdd26f14c2ef41309ef2c4a7dd00f12817d02aa42788b8621e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e09e3cf42f1c89a3f98e07d9febbabc94d9d4c91"
+git-tree-sha1 = "63cd7b32ac86f8ad58b727e21d59ed30138ce665"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "44a48e7249078b00712318afe55418180c2ae6bdc8fdc276346615040c789477"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "16a13a188e61198ccf3f3068ed8b578667f8ca3b5a74af82cca0c288d6fcfed9"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "468c22633a275c9c02ef9be8eb64359176f4b9c4"
+git-tree-sha1 = "7adc19f24bae0d7db4128da3524a78c74cc73c44"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "0bed3e24d6ac069ddbf26d3e748b0dfb2719c4bf2867da040cec0c8e5e1c5cee"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "6ef05063b6ef458db9fcf760320d6111798f121f28097cb814222102cb4b4174"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "377ee732038f0e4f7ccf5efcc2ab62366cf39af1"
+git-tree-sha1 = "7cef22dcddde09265af97c83f7d64205614fc174"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "72a5b68dfa7b26e4a35060ff8eedeeda6097bcfa18e4d25024c3cc9659fa387b"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "7ae05310cba96bdf711f7903732166a8b6128571230121dce45edb02f1e86585"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1285,84 +1285,84 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "5974c0cac0d685dfb983c965866e7ab983c8278eef8b1cb068ad9b656a9a746c"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a888b7d8ce64d4cff0c03aba2abc9cc9f1afc702"
+git-tree-sha1 = "bd27332f8d7ee68dab0a4b3ccd630a62c5f585ef"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "c9e6519e4a4619284fbb6341f54b9138abfb830bc329f64dd61b046d54a6a819"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "e13fbe90bed918c6fdb4cefea53461d4d441187ef1a68790345dce091f34ebd5"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ecbba16ea8e9ba26c3c56dda218331604767839b"
+git-tree-sha1 = "a6d66b3163d6bd53137b8b24510a9cf3ac98f886"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "425ddf96946b71583bad7b401ca67f1379aa83baf3335a10ce80faa5c0d8a1e2"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "57164ebf405c080c664864c7abe5e8a8750fb32bcd583ba82bf0aebb8fb8896e"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "44d7971367f3623f496c9a433edd18d6e505e25c"
+git-tree-sha1 = "c8717bc46487754f49b84e616270a13ce5b0c4a2"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "b625cdd95d8e0fd4e2c6d8c7c09fa198fc29dc70d3d88f5bac689029995f2bdc"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "30e894f5924255fbea1a8690aaeca7e4cd268a07b605fdd04135a042a1e00452"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2d40020e12a1b4df87dfd34ed9025de35cc10312"
+git-tree-sha1 = "9844147ee7e710598f0e111dcd68c70a501f21a9"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "d91ca2acef388bff0a1ef711f474d9780af0fa01b63096823e8591262325fa53"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "39f21823fcdf616745611503ddb0c02c47cbe7a940fc465fdc84380412051076"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5e69e0f3529aeb8745565d7cd2f780088d8b8cf5"
+git-tree-sha1 = "9764f9f726db1bca6b6061ffef486a0bd4ee0927"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "dd72d02a7af13785fcb1019292b0108e6e9223eec716527a71e28a1db6c178d1"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "e02f12f1d9f932320a764335d5e570f51882be967ebf631fbebcaa0fe8165f04"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c4015e8d8b025b47d1920864f8ff28d74ea080d"
+git-tree-sha1 = "a12fe1051e63501079b1c766d876f80fe5a310a0"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "eedb6cf2fad154dba920cd853290727374e6ae97ff7d913cbddc0d80dcafc775"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "f6e32744aa047d4ae53c8fe6c2e02ba06fecdaa1e37370721c4e922025448988"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c845eb236e56f1649393d8c38cf712b5e652997d"
+git-tree-sha1 = "8b7482c41134957defba3bd76b6a575b841417b0"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "83760d91e2e2f18adcf7302c23566fe5c06901013531b9759dd4e654eae2edcd"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "2a06f24553d2fe32571fb521972a9a51dec8a0ff1194f2be52206fcadb860dce"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1373,131 +1373,131 @@ os = "linux"
 
     [[libsingular_julia.download]]
     sha256 = "9903cdf55fafff103a4fb2256b6525ea8475eaeed6ac02f43bef1ece2bcd3c14"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2dc1646c5beda29eb1cebe01d739da2c264d4f58"
+git-tree-sha1 = "8c5db46a0cd2f4bf049019437a5e0fdac03ccc9d"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "b1c93b806122781d38e8e7b6bfb4f7d5deb355296e4f7d4ae5b957dc7bb16a13"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "767ec8c274415a52b1459689fa109af73d4b699dd27cb449e682a6951e2d8e49"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52bf22939961899d0e6baae0771ad52020bb6d7f"
+git-tree-sha1 = "5022fe54a4d7605a8085ba01bc64d83684168c12"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "8384428676d30baf2138756289a54ac0bc4ca3199334d8a15ac74b2da18d82ec"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "f2d834bdab62b258856a1b0c2792a51270ac5e308e1c7a2bc21c47e2e6c1fa19"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "064a854f819a2f1197f06bde254301e476ea8629"
+git-tree-sha1 = "943ce408d866da5ff57be04e1aaf4f96b54f3409"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "f27d14eaa3689db385d2f3e78bad905258ac2f2b78b382725f11e7a75666eb22"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b272810ac690bfc3e3dc8c0fe76ef18da41e98d5dc74e9173cab93878186f904"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5d18be4abc9c2f167273cea1aa217c798d5b9659"
+git-tree-sha1 = "345c4956e0744b4f331e44e7a8b326e22d36cdc7"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "a6c8e6f7538939f1ad5ebe5623b05e6ee8f3ed54ef521a1aeb40486e9bee5d24"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "52fe4fcd41edfa6b9612bea646fc54e5304df721c1e42a563f284f457e75fc85"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a48dc272dec7973702e379a61196d4a0a4da9c03"
+git-tree-sha1 = "4f4690a29ef637561b070e360cfe3b4b574fb658"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[libsingular_julia.download]]
-    sha256 = "674100eccc412df9154d4431deb3e93f093db5e3560060962d805b52896feafc"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "68e9508e69ee9e172a1bfe826bb1e6e65551ce6cfb931f5de31e95459f3f4d28"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "c03059fccfcfce293e232f7228cd1eb57221907d"
+git-tree-sha1 = "ca932ae199863d4262a16a5b5538b80a0213846b"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "806c40fd4ac46966d8c643be15cb35ff51909d35c945fcdf22f4b9daab3dd19a"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "b6d3fb29d33427053903b0d554f4cefea338de65cc1c45dd484799f4d67eb8fa"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "7baf09d86051e27c879a867c9388915469df06de"
+git-tree-sha1 = "bf79a50852466ad591008cb16903d55b1c522bca"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "3a5204d43ab9792decd9a9a570f1d9daab66e795146a8c4c8df489b5503faafb"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "375d79e1ba4d6a5c471ba6214fbdfeb1310a342fe401d47c53d14e6ffc43ba0b"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "d0ce256855d687a66333e96322f284e69b348ce4"
+git-tree-sha1 = "d2f77cbb5a99d7cf4bc40e5c8cf968d6055a900e"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "dd4c1db618de286375344d9de115f2a3016e2948f6e1a4f0de85335a2afbf666"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "8bb4f4781444a3b48abd441da139ecea3d61d4a9b7445cefd0a58252eb17b037"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "bdff800292353bdb4b34eda14d62304b367db375"
+git-tree-sha1 = "e372745fccfd6e6ffd8705fb9229bc008323ba6d"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "0bc4eb61b6b5eff069ca965d6114294b314ccab4f00ace5c2186a25baaa99bd4"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "10bc3b93411b0b95c05c3daf9a7f1f3f7bccb064e128f25cd0bf53ce018de6c1"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "18c1dc1bc1b839bf5fe516e3e2a8fdb71cf00b59"
+git-tree-sha1 = "12460764e7b1270cca23a9c0ecc9f35bf1efde49"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "f9ecf6eab4c12963e6d3dca3f9fd625f8250973a1bd55b4ad8bd854a99923e05"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "cc28f8d1f4b816f7ce33a4ada803637212d43b3f37c9ef90569e6822a65ec7e0"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "027b8b495a0831bc5df3433769418fbc809934cc"
+git-tree-sha1 = "7144a637fc8f0d213f099784f11b9e47c63abde0"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "ba4a33db0daf4e3a46fbc176206103fb663a9475fe94d59c3da5a085bfbf00fd"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "d68355592f8b7e5c5dd7b028f6ac6d75da74a9863c8a46b592782f5c0530e644"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "cb64fd19e8ff4832a65cb2c35800192015c55ac2"
+git-tree-sha1 = "cf89cf4d12853264f7d7a310f07bf85afe9a0f46"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "27e47843a88fa62a6fc52706d98a0d745e44a84dae29681fea0fc599232cf696"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "7056234bedba624684ee7b117a0beb9521389d016545a8eeefe46f0045334fbe"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[libsingular_julia]]
 arch = "x86_64"
-git-tree-sha1 = "6e8c4558cefd81f315158590a5ef6239bc0cbc52"
+git-tree-sha1 = "ff44ee35c268c136ae11649b038ab62a6b13e9fd"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[libsingular_julia.download]]
-    sha256 = "e50cb1b5caf016f20a1dc26072bedc89c8e376c9a70806961b629bc801d3ddac"
-    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.2+0/libsingular_julia.v0.47.2.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "cddf00fed30a01991f1fb95b99e05593420c338934845ea8a9529ea3bc9770dd"
+    url = "https://github.com/JuliaBinaryWrappers/libsingular_julia_jll.jl/releases/download/libsingular_julia-v0.47.3+0/libsingular_julia.v0.47.3.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
